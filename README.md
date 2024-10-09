@@ -3,7 +3,7 @@
 
 <h1>Tecnologias Utilizadas:</h1>
 <h3>🖥️ Front-end: HTML, CSS, JavaScript</h3>
-Pré-requisitos
+Pré-requisitos.
 <h1>Certifique-se de ter:</h1>
 
 <h3>Editor de código (como Visual Studio Code) 💻</h3>
